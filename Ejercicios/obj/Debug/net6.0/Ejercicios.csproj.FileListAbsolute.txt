@@ -1,0 +1,15 @@
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+D:\Documents\TdeA\SEMESTRE 5\Construccion\Entrgable1\Entregable1\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll
