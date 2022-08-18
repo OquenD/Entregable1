@@ -12,7 +12,7 @@ int posicion = 0;
 while(i<=2){
 if (edad > age[i]){
   posicion=i;
-  i=3;   
+  break;   
 }
 i++;
 }
