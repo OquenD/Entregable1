@@ -13,7 +13,7 @@ int posicion = 0;
 while(i<=4){
 if (anual > renta[i]){
   posicion=i;
-  i=5;   
+  break;   
 }
 i++;
 }
